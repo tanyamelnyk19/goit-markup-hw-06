@@ -195,6 +195,8 @@ nav .nav-link {
 
 .auth-nav {
   display: flex;
+  justify-content: center;
+  align-items: center;
   margin-left: auto;
 }
 
